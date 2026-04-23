@@ -1,0 +1,6 @@
+Code	Airline
+AAL	American Airlines
+ABK	Airbus Canada
+ABP	ABS Jets
+AC	Air Canada
+ARQ	Airico
